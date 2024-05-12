@@ -35,10 +35,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Youtube-Transcript](Youtube_transcript/Image/Login.png)
 
 ### Pdfsheet
-![Youtube-Transcript](Youtube_transcript/Image/pdfgen.png)
+![Youtube-Transcript](Youtube_transcript/Image/pdf.png)
 
 ### Gettingtranscript
-![Youtube-Transcript](Youtube_transcript/Image/gettransciprt.png)
+![Youtube-Transcript](Youtube_transcript/Image/get.png)
 
 
 
