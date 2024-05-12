@@ -18,13 +18,12 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Features
 
-- Light/dark mode toggle
-- Mutliple Cuisines
-- Fullscreen mode
-- Tied up with Nearby restarestaurants 
-- Street maps
-- Fitness facilities and diet plans
-- Feedback section
+- Summzrize
+- Translate 
+- Text to speak
+- Transcript
+- Pdf
+
 
 
 ## Screenshots
