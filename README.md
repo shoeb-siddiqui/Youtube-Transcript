@@ -47,7 +47,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## feel free to ask question here Siddiquishoeb7000@gmail.com
 
 
-![Logo](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_login.png)
 
 
 
