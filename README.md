@@ -1,6 +1,6 @@
-# ChefVerse
+# Youtube Transcript
 
-ChefVerse is the React based website build for Cooks and Homemakers to contribute and review about Multiple cuisines and Recipes across the world .
+YouTube transcript is a Qt-based C++ application designed for transcribing, summarizing, and listing YouTube video content in multiple languages.
 
 ## Badges
 
