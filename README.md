@@ -50,16 +50,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ![Logo](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_login.png)
 
 
-## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example black | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example NULL | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Cyan | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example green | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at chetansanap0900@gmail.com && instagram :- @chetu_sanap24
+If you have any feedback, please reach out to us at Siddiquishoeb7000@gmail.com
