@@ -30,38 +30,15 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ### Homepage
 ![Youtube-Transcript](Youtube_transcript/Image/hindi.png)
 
-### Searching UI
-<p align="center">
-  <img src="https://github.com/tacticalyash/pract/blob/main/assets/homepage_chefverse_pn.png)" alt="Login">
-</p>
 
-
-### Review 
-![App Screenshot](assets/review_chefverse_pn.png)
-
-### Info UI
-![App Screenshot](assetsingredients_chefverse_pn.png)
-
-more screenshots available soon..
+### Loginpage
+![Youtube-Transcript](Youtube_transcript/Image/hindi.png)
 
 
 
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
-## FAQ
-
-#### Is it provides most significant Multiple Cuisnes? 
-
-Well we had added Most of the unique Recipies and 
-
-#### Does doctor and patients can make live convo and one to one meet?
-
-It suppose to be possible if we get the approval and licenses from respective hospitals.And the main route is we have to build connection across the country which it will acceptable by rule.
-
-## feel free to ask question here siciliancpp@gmail.com
+## feel free to ask question here Siddiquishoeb7000@gmail.com
 
 
 ![Logo](https://github.com/tacticalyash/pract/blob/main/assets/screenshots/su_login.png)
