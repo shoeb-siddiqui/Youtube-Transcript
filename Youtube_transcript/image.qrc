@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/pexels-pixabay-147413.jpg</file>
+        <file>Image/pexels-andreea-ch-1076039.jpg</file>
+        <file>Image/user (3).png</file>
+        <file>Image/icons8-youtube-94.png</file>
+        <file>Image/pause.png</file>
+        <file>Image/play-buttton.png</file>
+        <file>Image/power.png</file>
+        <file>Image/add-friend.png</file>
+        <file>Image/key (1).png</file>
+    </qresource>
+</RCC>

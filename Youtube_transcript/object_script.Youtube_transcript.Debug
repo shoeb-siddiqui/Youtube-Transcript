@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\login.o
+./debug\forgot_password.o
+./debug\register.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_login.o
+./debug\moc_forgot_password.o
+./debug\moc_register.o
+);

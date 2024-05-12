@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\login.o
+./release\forgot_password.o
+./release\register.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_login.o
+./release\moc_forgot_password.o
+./release\moc_register.o
+);
