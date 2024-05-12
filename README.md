@@ -29,7 +29,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Screenshots
 ### Homepage
-![Youtube-Transcript](Youtube-Transcript/image/hindi.png)
+![Youtube-Transcript](Youtube_transcript/image/hindi.png)
 
 ### Searching UI
 <p align="center">
