@@ -13,7 +13,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Authors
 
-- [@tacticalyash ](https://www.github.com/tacticalyash)
+- [@Shoeb_siddiki ](https://www.github.com/shoeb-siddiqui)
 
 
 ## Features
