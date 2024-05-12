@@ -32,13 +32,13 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ### Loginpage
-![Youtube-Transcript](Youtube_transcript/Image/Login page.png)
+![Youtube-Transcript](Youtube_transcript/Image/Login.png)
 
 ### Pdfsheet
-![Youtube-Transcript](Youtube_transcript/Image/pdf gen.png)
+![Youtube-Transcript](Youtube_transcript/Image/pdfgen.png)
 
 ### Gettingtranscript
-![Youtube-Transcript](Youtube_transcript/Image/get transciprt.png)
+![Youtube-Transcript](Youtube_transcript/Image/gettransciprt.png)
 
 
 
